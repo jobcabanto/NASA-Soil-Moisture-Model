@@ -1,4 +1,4 @@
-# Volumetric Soil Moisture Model (NASA Space Apps Challenge 2024)
+# Volumetric Soil Moisture Model (2024 NASA Space Apps Challenge)
 
 Completed with Aistis Meiklejohn, Abtin Turing, and Reid Playter.
 
