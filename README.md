@@ -6,9 +6,9 @@ Our challenge for this year's NASA Space Apps Challenge was to leverage earth ob
 
 Tools/Technologies Used:
 
-Python
-scikit-learn
-joblib
+Python\n
+scikit-learn\n
+joblib\n
 Google Cloud Platform
 Google Cloud Storage
 Google Cloud Run
