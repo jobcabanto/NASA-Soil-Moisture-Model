@@ -1,4 +1,4 @@
-# NASA Volumetric Soil Moisture Model (NASA Space Apps Challenge 2024)
+# Volumetric Soil Moisture Model (NASA Space Apps Challenge 2024)
 
 For this year's NASA Space Apps Challenge, our challenge was to leverage earth observation data for informed agricultural decision-making. The dataset was sourced from NASA's Giovanni tool where we collected 3 year's worth of monthly averaged volumetric soil moisture data in North America. That equates to over 3 million data points.
 
