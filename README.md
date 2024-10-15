@@ -24,4 +24,4 @@ We hosted our model on Google Cloud Platform using Cloud Storage and Cloud Run. 
 
 Website: https://soilvantage-bc523.web.app/ 
 
-![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/elbow_method.png)
+![alt text](https://github.com/jobcabanto/NASA-Soil-Moisture-Model/Screenshot 2024-10-15 161901.png)
