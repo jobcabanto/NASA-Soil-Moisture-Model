@@ -23,3 +23,5 @@ We leveraged a random forest regressor hoping it would pick up spatial patterns 
 We hosted our model on Google Cloud Platform using Cloud Storage and Cloud Run. With Flask, we then built a REST API for soil moisture estimates to be generated from our front-end.  
 
 Website: https://soilvantage-bc523.web.app/ 
+
+![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/elbow_method.png)
